@@ -66,8 +66,8 @@ Error Reporting:
 Clone the repository:
 
 ```Bash
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
+git clone https://github.com/simonemazzi/MyPreComplier.git
+cd MyPreComplier
 ```
 Compile the project using gcc (as required by the specifications):
 
